@@ -37,3 +37,5 @@ This was coded in a few hours, dont expect it to be very good, feel free to make
 - Adding audio processing, to remove silences from the TTS model or speed it up
 - Improve the prompts, and the memory system
 - Add other features, that the AI can use to help the user
+<br>
+- Add logging and error handling
