@@ -27,3 +27,12 @@ Add your Open AI and elevenlabs API keys in commons.py
 
 # Notes
 This was coded in a few hours, dont expect it to be very good, feel free to make any pull requests to improve the system with new features, better prompting or to reduce latency.
+
+# Todo
+- Add real time streaming of transcription with whisper, with a feature that waits for the user to stop talking without needing to press any keys.
+- Real time streaming with the pressing keys feature, would allow a reduced latency.
+- Improvment of latency, faster models or better pipeline
+- Running local LLM and TTS models
+- Adding audio processing, to remove silences from the TTS model or speed it up
+- Improve the prompts, and the memory system
+- Add other features, that the AI can use to help the user
