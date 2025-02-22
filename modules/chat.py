@@ -67,6 +67,6 @@ async def run():
     await ChatPipe.new()
     await kwait()
 
-asyncio.run(run())
+
 
 
