@@ -1,5 +1,6 @@
 # Juniper
 POC of a real-time STS AI Assistant
+Current latency is of around ~1.5-2s
 
 
 # Requirements
