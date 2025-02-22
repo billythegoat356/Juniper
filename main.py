@@ -1,5 +1,5 @@
 from modules.chat import run
+import asyncio
 
 
-
-run()
+asyncio.run(run())
